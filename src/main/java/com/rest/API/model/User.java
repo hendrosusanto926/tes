@@ -98,6 +98,14 @@ public class User {
     public void setUsername(String username) {
         this.username = username;
     }
+
+    public boolean isLoggedIn() {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
+
+    public void setLoggedIn(boolean b) {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
     
     
     
